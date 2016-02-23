@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monographiagener00wied_0045.png"; bbox 0 0 2186 3103; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1988 212 2047 243">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1988 212 2047 243">
+     <span class='ocr_line' id='line_1_1' title="bbox 1988 212 2047 243; baseline 0.017 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1988 212 2008 242; x_wconf 77' lang='lat' dir='ltr'><em>l,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2017 212 2047 243; x_wconf 67' lang='lat' dir='ltr'><em>ll</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 128 358 1993 2619">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 128 358 1993 2619">
+     <span class='ocr_line' id='line_1_2' title="bbox 128 358 1993 2619; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 128 358 1993 2619; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 117 2790 245 2813">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 117 2790 245 2813">
+     <span class='ocr_line' id='line_1_3' title="bbox 117 2790 245 2813; baseline 0.023 -3"><span class='ocrx_word' id='word_1_4' title='bbox 117 2790 188 2812; x_wconf 48' lang='grc' dir='ltr'><em>ΖΗΛ»</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 206 2793 245 2813; x_wconf 36' lang='grc' dir='ltr'><em>Διί-Ι</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
